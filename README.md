@@ -43,7 +43,7 @@ This project demonstrates:
 | 6      | DC Power Connector         | 2-Pin connector (J1)           |
 | 7      | Power Supply               | 5V DC                          |
 
-**Note:** The schematic file (source of truth) shows R2 = 82 kΩ. The report PDF mentions 100 Ω in some places — you can update the report to match the schematic.
+**Note:** The schematic file (source of truth) shows R2 = 82 kΩ.
 
 ---
 
@@ -94,13 +94,6 @@ The transistor (BC817-40) acts as a simple electronic switch, and the whole circ
 
 ---
 
-## 📄 Full Project Report
-
-[Download the complete report (PDF)](cohort%202%20IOT%20Report%20not%20finished.pdf)  
-*(Currently marked as "not finished" — add testing results/conclusion whenever ready)*
-
----
-
 ## 🛡️ License
 
 Open-source under the **MIT License**. Feel free to use, modify, and share!
@@ -111,7 +104,7 @@ Open-source under the **MIT License**. Feel free to use, modify, and share!
 
 1. Upload everything to GitHub (repo name suggestion: `LDR-Automatic-Night-Light`)
 2. Put this `README.md` at the root
-3. Create an `assets/` folder and drop the images + PDF inside (update links if needed)
+3. Create an `assets/` folder and drop the images inside (update links if needed)
 4. Whenever you add a demo video, testing photos, or improvements — just ping me and I’ll update the README instantly!
 
 ---
