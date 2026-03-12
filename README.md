@@ -1,7 +1,5 @@
 # 🌙 LDR Based Automatic Night Light System
 
-**Internship Mini Project**
-
 ---
 
 ## 📋 Overview
