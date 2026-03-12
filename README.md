@@ -1,4 +1,4 @@
-# LDR Based Automatic Night Light System
+# 🌙 LDR Based Automatic Night Light System
 
 **Internship Mini Project**
 
@@ -97,15 +97,6 @@ The transistor (BC817-40) acts as a simple electronic switch, and the whole circ
 ## 🛡️ License
 
 Open-source under the **MIT License**. Feel free to use, modify, and share!
-
----
-
-## 📌 How to Maintain This README
-
-1. Upload everything to GitHub (repo name suggestion: `LDR-Automatic-Night-Light`)
-2. Put this `README.md` at the root
-3. Create an `assets/` folder and drop the images inside (update links if needed)
-4. Whenever you add a demo video, testing photos, or improvements — just ping me and I’ll update the README instantly!
 
 ---
 
