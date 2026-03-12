@@ -62,7 +62,7 @@ This project demonstrates:
 
 ## 📦 3D View
 
-![3D Render](3D view.png)
+![3D Render]([3D view.png](https://github.com/Awad235/IIMSTC---LDR-Based-Automatic-Night-Light-System---Cohort-2/blob/c77953dee7ff75a738349cb9d1ec7491df49729d/3D%20view.png))
 
 ---
 
