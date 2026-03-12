@@ -2,8 +2,6 @@
 
 **Internship Mini Project**
 
-![Project Cover](screenshot.jpeg)
-
 ---
 
 ## 📋 Overview
